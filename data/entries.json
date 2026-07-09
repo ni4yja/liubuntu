@@ -7,9 +7,8 @@
     "start_date": "2007-09-01",
     "end_date": "2012-05-31",
     "is_ongoing": false,
-    "fields": [
-      "culture theory"
-    ],
+    "fields": ["culture theory"],
+    "summary": "Academic grounding in cultural theory and heritage — the foundation for later work translating cultural knowledge into public-facing formats.",
     "link": null,
     "media": [],
     "featured": false
@@ -22,10 +21,8 @@
     "start_date": "2013-11-21",
     "end_date": "2013-11-24",
     "is_ongoing": false,
-    "fields": [
-      "cultural management",
-      "theater"
-    ],
+    "fields": ["cultural management", "theater"],
+    "summary": "Coordinated program logistics for a contemporary theatre festival, working across venues, playwrights, and audiences.",
     "link": "https://zbruc.eu/node/18396",
     "media": "",
     "featured": false
@@ -38,25 +35,22 @@
     "start_date": "2013-05-01",
     "end_date": "2014-08-31",
     "is_ongoing": false,
-    "fields": [
-      "cultural management",
-      "literature"
-    ],
+    "fields": ["cultural management", "literature"],
+    "summary": "Supported public programming at a literature museum, exploring the institution's role as shared, neutral ground for its community.",
     "link": "https://www.historians.in.ua/index.php/en/istoriya-i-pamyat-vazhki-pitannya/712-liuba-kuibida-muzei-iak-neitralna-terytoriia-i-mytets-iak-myrnyi-posol",
     "media": [],
     "featured": false
   },
   {
     "id": "exhibition-program-coordinator",
-    "entry_type": "stories",
+    "entry_type": "voice",
     "title": "Exhibition Program Coordinator",
     "organization": "Center for Urban History, Lviv, Ukraine",
     "start_date": "2015-02-01",
     "end_date": "2015-12-31",
     "is_ongoing": false,
-    "fields": [
-      "public history"
-    ],
+    "fields": ["public history"],
+    "summary": "Coordinated exhibition programming that translated urban and historical research into formats accessible to general audiences.",
     "link": "https://korydor.in.ua/ua/author/liubakuibida",
     "media": [],
     "featured": false
@@ -69,89 +63,122 @@
     "start_date": "2016-03-01",
     "end_date": "2016-03-20",
     "is_ongoing": false,
-    "fields": [
-      "art theory",
-      "audiovisual art"
-    ],
+    "fields": ["art theory", "audiovisual art"],
+    "summary": "Intensive program on new media art, examining where art theory, audiovisual practice, and technology intersect.",
     "link": "",
     "media": [],
     "featured": false
   },
   {
     "id": "web-developer-and-mentor",
-    "entry_type": "tech",
+    "entry_type": "code",
     "title": "Web Developer and Mentor",
     "organization": "P2H / UST / BE / Vona Tech Community, Ukraine -> Poland",
     "location": null,
     "start_date": "2018-06-01",
     "end_date": "2024-08-31",
     "is_ongoing": false,
-    "fields": [
-      "JavaScript",
-      "programming"
-    ],
+    "fields": ["JavaScript", "programming"],
+    "summary": "Six-year hands-on career in web development across Ukraine and Poland, paired with mentoring developers entering the field.",
     "link": "https://ni4yja.medium.com/",
     "media": null,
     "featured": false
   },
   {
     "id": "journalist",
-    "entry_type": "stories",
+    "entry_type": "voice",
     "title": "Journalist",
     "organization": "Happy Monday — Ukrainian Media on Career, Warsaw, Poland (remote)",
     "start_date": "2024-11-01",
     "end_date": "2025-08-31",
     "is_ongoing": false,
-    "fields": [
-      "writing"
-    ],
-    "summary": null,
+    "fields": ["writing"],
+    "summary": "Wrote career and labor-market journalism for a Ukrainian outlet, translating professional-development topics for a general readership.",
     "link": "https://happymonday.ua/author/luba_kuybida",
     "media": [],
     "featured": false
   },
   {
     "id": "project-assistant",
-    "entry_type": "impact",
+    "entry_type": "voice",
     "title": "Project Assistant",
     "organization": "Shipyard Foundation, Warsaw, Poland",
     "start_date": "2025-10-01",
     "end_date": null,
     "is_ongoing": true,
-    "fields": [
-      "project management"
-    ],
+    "fields": ["project management", "civic education"],
+    "summary": "Supports project delivery at a leading Polish civic-participation foundation, helping citizens and institutions collaborate on public decisions.",
     "link": null,
     "media": [],
     "featured": true
   },
   {
     "id": "mentee",
-    "entry_type": "stories",
+    "entry_type": "voice",
     "title": "Mentee",
     "organization": "Writing Mentorship Program, Dziewczyny-maszyny",
     "start_date": "2025-07-01",
     "end_date": "2025-08-01",
     "is_ongoing": false,
-    "fields": [
-      "creative writing", "literature"
-    ],
+    "fields": ["creative writing", "literature"],
+    "summary": "Developed craft and voice in creative writing through a structured mentorship program, with work published on the program's platform.",
     "link": "https://sites.google.com/view/dziewczynymaszyny/wasze-teksty/powoli/liubov-kuibida",
     "media": [],
     "featured": false
   },
   {
     "id": "student",
-    "entry_type": "tech",
+    "entry_type": "code",
     "title": "Student",
     "organization": "Polish-Japanese Academy of Information Technology, Warsaw, Poland",
     "start_date": "2025-07-01",
     "end_date": "2025-08-01",
     "is_ongoing": false,
-    "fields": [
-      "programming", "Python"
-    ],
+    "fields": ["programming", "Python"],
+    "summary": "Formal study of programming fundamentals and Python, building technical depth alongside prior web-development experience.",
     "link": "https://github.com/ni4yja/mavka",
+    "media": [],
+    "featured": false
+  },
+  {
+    "id": "bogorm",
+    "entry_type": "culture",
+    "title": "Creator",
+    "organization": "Bogorm — interactive map of reading spots in Warsaw",
+    "start_date": "2025-12-01",
+    "end_date": null,
+    "is_ongoing": true,
+    "fields": ["mapping", "urban culture", "data storytelling"],
+    "summary": "Self-initiated data-storytelling project mapping reading spots across Warsaw, at the intersection of urban culture and technology.",
+    "link": "https://bogorm.super.site/",
+    "media": [],
+    "featured": true
+  },
+  {
+    "id": "re-she-to",
+    "entry_type": "culture",
+    "title": "Creator",
+    "organization": "re-she-to — data project on translated literature in the Polish book market",
+    "start_date": "2026-06-06",
+    "end_date": "2026-07-07",
+    "is_ongoing": false,
+    "fields": ["data storytelling", "publishing", "literature"],
+    "summary": "Independent data project mapping translated literature in the Polish book market, combining research and storytelling around publishing culture.",
+    "link": "https://ni4yja.github.io/re-she-to/",
+    "media": [],
+    "featured": true
+  },
+  {
+    "id": "mentee-women-go-tech",
+    "entry_type": "code",
+    "title": "Mentee",
+    "organization": "Acceleration Program, Women Go Tech",
+    "start_date": "2026-04-01",
+    "end_date": "2026-10-01",
+    "is_ongoing": false,
+    "fields": ["mentorship", "career development"],
+    "summary": "Six-month tech-career mentorship combining one-on-one mentoring with structured career consultations.",
+    "link": "https://www.womengotech.com/acceleration-program-for-mentees/",
     "media": [],
     "featured": false
   }
