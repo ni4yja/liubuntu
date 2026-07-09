@@ -8,7 +8,7 @@
     "end_date": "2012-05-31",
     "is_ongoing": false,
     "fields": ["culture theory"],
-    "summary": "Academic grounding in cultural theory and heritage — the foundation for later work translating cultural knowledge into public-facing formats.",
+    "summary": "Five years studying cultural theory and heritage — where I first learned how culture gets shared, kept, and passed on.",
     "link": null,
     "media": [],
     "featured": false
@@ -22,7 +22,7 @@
     "end_date": "2013-11-24",
     "is_ongoing": false,
     "fields": ["cultural management", "theater"],
-    "summary": "Coordinated program logistics for a contemporary theatre festival, working across venues, playwrights, and audiences.",
+    "summary": "Helped run a contemporary theatre festival — juggling venues, playwrights, and audiences to make it all come together.",
     "link": "https://zbruc.eu/node/18396",
     "media": "",
     "featured": false
@@ -36,7 +36,7 @@
     "end_date": "2014-08-31",
     "is_ongoing": false,
     "fields": ["cultural management", "literature"],
-    "summary": "Supported public programming at a literature museum, exploring the institution's role as shared, neutral ground for its community.",
+    "summary": "Volunteered at a literature museum, helping it stay a welcoming, shared space for the community.",
     "link": "https://www.historians.in.ua/index.php/en/istoriya-i-pamyat-vazhki-pitannya/712-liuba-kuibida-muzei-iak-neitralna-terytoriia-i-mytets-iak-myrnyi-posol",
     "media": [],
     "featured": false
@@ -50,7 +50,7 @@
     "end_date": "2015-12-31",
     "is_ongoing": false,
     "fields": ["public history"],
-    "summary": "Coordinated exhibition programming that translated urban and historical research into formats accessible to general audiences.",
+    "summary": "Coordinated exhibitions that turned local history research into something everyday visitors could enjoy and understand.",
     "link": "https://korydor.in.ua/ua/author/liubakuibida",
     "media": [],
     "featured": false
@@ -64,7 +64,7 @@
     "end_date": "2016-03-20",
     "is_ongoing": false,
     "fields": ["art theory", "audiovisual art"],
-    "summary": "Intensive program on new media art, examining where art theory, audiovisual practice, and technology intersect.",
+    "summary": "Took part in an intensive program on new media art — exploring where art, sound, image, and technology meet.",
     "link": "",
     "media": [],
     "featured": false
@@ -79,7 +79,7 @@
     "end_date": "2024-08-31",
     "is_ongoing": false,
     "fields": ["JavaScript", "programming"],
-    "summary": "Six-year hands-on career in web development across Ukraine and Poland, paired with mentoring developers entering the field.",
+    "summary": "Spent six years building websites and mentoring other developers just starting out.",
     "link": "https://ni4yja.medium.com/",
     "media": null,
     "featured": false
@@ -93,7 +93,7 @@
     "end_date": "2025-08-31",
     "is_ongoing": false,
     "fields": ["writing"],
-    "summary": "Wrote career and labor-market journalism for a Ukrainian outlet, translating professional-development topics for a general readership.",
+    "summary": "Wrote articles about careers and the job market for a Ukrainian outlet, making complex topics easy to follow.",
     "link": "https://happymonday.ua/author/luba_kuybida",
     "media": [],
     "featured": false
@@ -107,10 +107,10 @@
     "end_date": null,
     "is_ongoing": true,
     "fields": ["project management", "civic education"],
-    "summary": "Supports project delivery at a leading Polish civic-participation foundation, helping citizens and institutions collaborate on public decisions.",
+    "summary": "Helping run projects at a Polish foundation that brings citizens and local government together on public decisions.",
     "link": null,
     "media": [],
-    "featured": true
+    "featured": false
   },
   {
     "id": "mentee",
@@ -121,7 +121,7 @@
     "end_date": "2025-08-01",
     "is_ongoing": false,
     "fields": ["creative writing", "literature"],
-    "summary": "Developed craft and voice in creative writing through a structured mentorship program, with work published on the program's platform.",
+    "summary": "Joined a creative writing mentorship to grow as a writer — my work is published on the program's site.",
     "link": "https://sites.google.com/view/dziewczynymaszyny/wasze-teksty/powoli/liubov-kuibida",
     "media": [],
     "featured": false
@@ -135,7 +135,7 @@
     "end_date": "2025-08-01",
     "is_ongoing": false,
     "fields": ["programming", "Python"],
-    "summary": "Formal study of programming fundamentals and Python, building technical depth alongside prior web-development experience.",
+    "summary": "Studied programming and Python, building on my earlier experience in web development.",
     "link": "https://github.com/ni4yja/mavka",
     "media": [],
     "featured": false
@@ -149,7 +149,7 @@
     "end_date": null,
     "is_ongoing": true,
     "fields": ["mapping", "urban culture", "data storytelling"],
-    "summary": "Self-initiated data-storytelling project mapping reading spots across Warsaw, at the intersection of urban culture and technology.",
+    "summary": "Building an interactive map of great reading spots around Warsaw — a personal project mixing city culture with data and design.",
     "link": "https://bogorm.super.site/",
     "media": [],
     "featured": true
@@ -163,7 +163,7 @@
     "end_date": "2026-07-07",
     "is_ongoing": false,
     "fields": ["data storytelling", "publishing", "literature"],
-    "summary": "Independent data project mapping translated literature in the Polish book market, combining research and storytelling around publishing culture.",
+    "summary": "A personal data project exploring translated literature in the Polish book market — part research, part storytelling.",
     "link": "https://ni4yja.github.io/re-she-to/",
     "media": [],
     "featured": true
@@ -175,11 +175,11 @@
     "organization": "Acceleration Program, Women Go Tech",
     "start_date": "2026-04-01",
     "end_date": "2026-10-01",
-    "is_ongoing": false,
+    "is_ongoing": true,
     "fields": ["mentorship", "career development"],
-    "summary": "Six-month tech-career mentorship combining one-on-one mentoring with structured career consultations.",
+    "summary": "Currently in a 6-month mentorship for women in tech, combining one-on-one guidance with career coaching.",
     "link": "https://www.womengotech.com/acceleration-program-for-mentees/",
     "media": [],
-    "featured": false
+    "featured": true
   }
 ]

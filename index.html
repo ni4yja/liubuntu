@@ -14,7 +14,7 @@
   <div id="app">
     <header class="site-header">
       <h1 class="name">Liuba Kuibida</h1>
-      <p class="role">Digital Storytelling at the Intersection of Culture and Technology</p>
+      <p class="role">DIGITAL STORYTELLING AT THE INTERSECTION OF <span class="accent">CULTURE AND TECHNOLOGY</span></p>
     </header>
     <div class="container">
       <section class="filters">
@@ -49,7 +49,11 @@
 
           <h2 class="title">{{ entry.title }}</h2>
           <p class="org">{{ entry.organization }}</p>
-          <p class="summary">{{ entry.summary }}</p>
+          
+          <details class="summary-toggle" :open="entry.featured">
+            <summary>Details</summary>
+            <p class="summary">{{ entry.summary }}</p>
+          </details>
 
           <a 
             v-if="entry.link" 
@@ -74,6 +78,7 @@
   <footer class="site-footer minimal">
       <a href="mailto:liubuntu@proton.me" target="_blank" class="link">Email</a>
       <a href="https://liubuntu.tech/" target="_blank" class="link">Website</a>
+      <a href="https://blog.liubuntu.tech/" target="_blank" class="link">Blog</a>
       <a href="https://www.linkedin.com/in/liuba-kuibida/" target="_blank" class="link">LinkedIn</a>
     </footer>
 
