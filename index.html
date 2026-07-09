@@ -3,8 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Liuba Kuibida — Digital Creative</title>
+    <!-- Primary Meta -->
+  <meta name="description" content="Digital storytelling at the intersection of culture and technology — portfolio of projects, writing, and experience." />
 
+  <!-- Open Graph (Facebook, LinkedIn, iMessage) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://portfolio.liubuntu.tech/" />
+  <meta property="og:title" content="Liuba Kuibida — Digital Creative" />
+  <meta property="og:description" content="Digital storytelling at the intersection of culture and technology." />
+  <meta property="og:image" content="https://portfolio.liubuntu.tech/og-image.png" />
+  <title>Liuba Kuibida — Digital Creative</title>
+  <link rel="icon" href="favicon.svg" />
   <link rel="stylesheet" href="css/styles.css" />
 
   <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
@@ -14,7 +23,7 @@
   <div id="app">
     <header class="site-header">
       <h1 class="name">Liuba Kuibida</h1>
-      <p class="role">Digital Creative</p>
+      <p class="role">DIGITAL STORYTELLING AT THE INTERSECTION OF <span class="accent">CULTURE AND TECHNOLOGY</span></p>
     </header>
     <div class="container">
       <section class="filters">
@@ -49,6 +58,11 @@
 
           <h2 class="title">{{ entry.title }}</h2>
           <p class="org">{{ entry.organization }}</p>
+          
+          <details class="summary-toggle" :open="entry.featured">
+            <summary>Details</summary>
+            <p class="summary">{{ entry.summary }}</p>
+          </details>
 
           <a 
             v-if="entry.link" 
@@ -73,6 +87,7 @@
   <footer class="site-footer minimal">
       <a href="mailto:liubuntu@proton.me" target="_blank" class="link">Email</a>
       <a href="https://liubuntu.tech/" target="_blank" class="link">Website</a>
+      <a href="https://blog.liubuntu.tech/" target="_blank" class="link">Blog</a>
       <a href="https://www.linkedin.com/in/liuba-kuibida/" target="_blank" class="link">LinkedIn</a>
     </footer>
 

@@ -2,7 +2,7 @@ const { createApp, ref, computed, onMounted } = Vue;
 
 createApp({
   setup() {
-    const TYPE_ORDER = ["culture", "tech", "stories", "impact"];
+    const TYPE_ORDER = ["code", "culture", "voice"];
     const entries = ref([]);
     const activeType = ref("all");
     sortDirection = ref("desc");
