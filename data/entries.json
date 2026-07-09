@@ -176,7 +176,7 @@
     "start_date": "2026-04-01",
     "end_date": "2026-10-01",
     "is_ongoing": true,
-    "fields": ["mentorship", "career development"],
+    "fields": ["programming", "JavaScript", "Python"],
     "summary": "Currently in a 6-month mentorship for women in tech, combining one-on-one guidance with career coaching.",
     "link": "https://www.womengotech.com/acceleration-program-for-mentees/",
     "media": [],
