@@ -48,7 +48,7 @@
           v-for="entry in filteredEntries" 
           :key="entry.id"
           class="card"
-          :class="{ featured: entry.featured }"
+          :class="{ featured: entry.featured, ongoing: entry.is_ongoing }"
         >
           <div 
             class="meta"
